@@ -1,0 +1,35 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 9, in script
+    $comicstrip.main()
+  File "game/script.rpy", line 9, in <module>
+    $comicstrip.main()
+ImportError: The _imaging C module is not installed
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 9, in script
+    $comicstrip.main()
+  File "/home/torrance/Documents/ComicVisualNovelGenerator/ComicToVisualNovel-1.0-dists/ComicToVisualNovel-1.0-linux/renpy/ast.py", line 848, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/torrance/Documents/ComicVisualNovelGenerator/ComicToVisualNovel-1.0-dists/ComicToVisualNovel-1.0-linux/renpy/python.py", line 1812, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/script.rpy", line 9, in <module>
+    $comicstrip.main()
+  File "comicstrip.py", line 489, in main
+  File "comicstrip.py", line 403, in process
+  File "comicstrip.py", line 397, in processPg
+  File "comicstrip.py", line 302, in __init__
+  File "comicstrip.py", line 260, in _prepare
+  File "python-packages/PIL/Image.py", line 677, in convert
+  File "python-packages/PIL/ImageFile.py", line 164, in load
+  File "python-packages/PIL/ImageFile.py", line 231, in load_prepare
+  File "python-packages/PIL/Image.py", line 37, in __getattr__
+ImportError: The _imaging C module is not installed
+
+Linux-4.4.0-116-generic-x86_64-with-debian-stretch-sid
+Ren'Py 6.99.14.1.3218
+ComicToVisualNovel 1.0
+Sun Mar 25 23:44:51 2018

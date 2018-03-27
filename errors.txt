@@ -1,0 +1,162 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 15: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0060 
+    ^
+
+File "game/script.rpy", line 23: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0070 
+    ^
+
+File "game/script.rpy", line 31: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0080 
+    ^
+
+File "game/script.rpy", line 39: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0090 
+    ^
+
+File "game/script.rpy", line 47: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0100 
+    ^
+
+File "game/script.rpy", line 55: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0110 
+    ^
+
+File "game/script.rpy", line 63: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0120 
+    ^
+
+File "game/script.rpy", line 71: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0130 
+    ^
+
+File "game/script.rpy", line 75: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0140 
+    ^
+
+File "game/script.rpy", line 83: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0141 
+    ^
+
+File "game/script.rpy", line 87: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0142 
+    ^
+
+File "game/script.rpy", line 91: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0150 
+    ^
+
+File "game/script.rpy", line 99: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0151 
+    ^
+
+File "game/script.rpy", line 107: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0160 
+    ^
+
+File "game/script.rpy", line 115: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0161 
+    ^
+
+File "game/script.rpy", line 119: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0170 
+    ^
+
+File "game/script.rpy", line 127: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0171 
+    ^
+
+File "game/script.rpy", line 135: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0180 
+    ^
+
+File "game/script.rpy", line 139: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0190 
+    ^
+
+File "game/script.rpy", line 147: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0191 
+    ^
+
+File "game/script.rpy", line 155: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0200 
+    ^
+
+File "game/script.rpy", line 163: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0201 
+    ^
+
+File "game/script.rpy", line 171: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0202 
+    ^
+
+File "game/script.rpy", line 179: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0210 
+    ^
+
+File "game/script.rpy", line 187: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0220 
+    ^
+
+File "game/script.rpy", line 191: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0221 
+    ^
+
+File "game/script.rpy", line 195: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0222 
+    ^
+
+File "game/script.rpy", line 203: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0230 
+    ^
+
+File "game/script.rpy", line 207: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0231 
+    ^
+
+File "game/script.rpy", line 211: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0240 
+    ^
+
+File "game/script.rpy", line 215: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0241 
+    ^
+
+File "game/script.rpy", line 219: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0242 
+    ^
+
+File "game/script.rpy", line 223: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0243 
+    ^
+
+File "game/script.rpy", line 227: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0244 
+    ^
+
+File "game/script.rpy", line 231: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0245 
+    ^
+
+File "game/script.rpy", line 235: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0246 
+    ^
+
+File "game/script.rpy", line 243: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0250 
+    ^
+
+File "game/script.rpy", line 251: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0251 
+    ^
+
+File "game/script.rpy", line 259: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    hide 0252 
+    ^
+
+Ren'Py Version: Ren'Py 6.99.14.1.3218
+Mon Mar 26 23:39:41 2018
